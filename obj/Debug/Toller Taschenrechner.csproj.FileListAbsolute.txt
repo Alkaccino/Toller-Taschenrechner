@@ -1,0 +1,38 @@
+C:\Users\alkan\source\repos\Toller Taschenrechner\bin\Debug\Toller Taschenrechner.exe.config
+C:\Users\alkan\source\repos\Toller Taschenrechner\bin\Debug\Toller Taschenrechner.exe
+C:\Users\alkan\source\repos\Toller Taschenrechner\bin\Debug\Toller Taschenrechner.pdb
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\App.g.cs
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner_MarkupCompile.cache
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner_MarkupCompile.lref
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.g.resources
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller_Taschenrechner.Properties.Resources.resources
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.csproj.GenerateResource.cache
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.exe
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.pdb
+C:\Users\alkan\source\repos\Toller Taschenrechner\bin\Debug\Toller Taschenrechner.exe.manifest
+C:\Users\alkan\source\repos\Toller Taschenrechner\bin\Debug\Toller Taschenrechner.application
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.exe.manifest
+C:\Users\alkan\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.application
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\bin\Debug\Toller Taschenrechner.exe.config
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\bin\Debug\Toller Taschenrechner.exe.manifest
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\bin\Debug\Toller Taschenrechner.application
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\bin\Debug\Toller Taschenrechner.exe
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\bin\Debug\Toller Taschenrechner.pdb
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\App.g.cs
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner_MarkupCompile.cache
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner_MarkupCompile.lref
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.g.resources
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller_Taschenrechner.Properties.Resources.resources
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.csproj.GenerateResource.cache
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.exe.manifest
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.application
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.exe
+C:\Users\alkan\OneDrive\Multiordner\Programmieren lernen\Projekte\source\repos\Toller Taschenrechner\obj\Debug\Toller Taschenrechner.pdb
